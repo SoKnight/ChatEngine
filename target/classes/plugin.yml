@@ -1,0 +1,56 @@
+name: ChatEngine
+main: ru.soknight.chatengine.ChatEngine
+version: 1.1.0
+api-version: 1.14
+author: SoKnight
+soft-depends: [SuperVanish]
+commands:
+  cereload:
+    aliases: [chatenginereload]
+    description: Reload plugin
+    usage: /cereload
+  msg:
+    aliases: [w, tell]
+    description: Refactored formating of vanilla /msg command
+    usage: /msg <player> <message>
+  me:
+    description: RolePlay locale message
+    usage: /me <message>
+  gme:
+    description: RolePlay global message
+    usage: /gme <message>
+  broadcast:
+    aliases: [adminmessage, am, bc]
+    description: Public message for all players
+    usage: /broadcast <message>
+permissions:
+  chatengine.reload:
+    description: Allows use reload command
+    default: op
+  chatengine.broadcast:
+    description: Allows use broadcast command
+    default: op
+  chatengine.msg.vanished:
+    description: Allows send private messages to vanished players
+    default: op
+  chatengine.msg:
+    description: Allows use msg command
+    default: true
+  chatengine.me:
+    description: Allows use me command
+    default: true
+  chatengine.gme:
+    description: Allows use gme command
+    default: true
+  chatengine.me.bypass:
+    description: Allows bypassing cooldown of me command
+    default: op
+  chatengine.gme.bypass:
+    description: Allows bypassing cooldown of gme command
+    default: op
+  chatengine.chat.global.bypass:
+    description: Allows bypassing cooldown in the global chat
+    default: op
+  chatengine.chat.local.bypass:
+    description: Allows bypassing cooldown in the local chat
+    default: op

@@ -1,0 +1,17 @@
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/commands/CommandCereload.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/utils/Logger.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/files/Config.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/commands/CommandMe.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/commands/CommandGme.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/utils/Checks.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/handlers/MainHandler.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/files/Groups.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/commands/CommandMsg.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/handlers/CommandRedirect.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/handlers/DeathMessageHandler.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/tablist/TablistHandler.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/ChatEngine.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/utils/MessageConstructor.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/commands/CommandBroadcast.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/utils/TablistUtils.java
+/home/soknight/eclipse-workspace/chatengine/src/main/java/ru/soknight/chatengine/tablist/Group.java

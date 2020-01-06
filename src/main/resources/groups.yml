@@ -1,0 +1,19 @@
+# Настройки групп в таблисте
+#
+# groups:
+#   groupName:           Имя группы
+#     prefix: 'prefix'   Префикс никнейма
+#     suffix: 'suffix'   Суффикс никнейма
+#     name-color: 'RED'   Цвет никнейма
+#
+groups:
+  admin:
+    prefix: '&c&lА '
+    name-color: 'RED'
+  default:
+    prefix: '&b&lЖ '
+    name-color: 'AQUA'
+# Сортировка групп в таблисте
+group-sort:
+- 'admin'
+- 'default'
