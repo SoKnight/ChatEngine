@@ -96,7 +96,7 @@ public class MainHandler implements Listener {
 		double squared = Math.pow(radius, 2);
 		
 		ploc.getWorld().getPlayers().parallelStream().forEach(pl -> {
-			if(ploc.distanceSquared(pl.getLocation()) <= squared) 
+			if(ploc.distanceSquared(pl.getLocation()) <= squared)
 				players.add(pl);
 		});
 		return players;
@@ -122,7 +122,7 @@ public class MainHandler implements Listener {
 		if(time < min) {
 			String remain = String.valueOf((int) ((min - time) / 1000));
 			p.sendMessage(Config.getMessage("error-cooldown-chat").replace("%time%", remain));
-			return true; } 
+			return true; }
 		else if(cd_global.containsKey(p)) cd_global.remove(p);
 		else cd_local.remove(p);
 		return false;

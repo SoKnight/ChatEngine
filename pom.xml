@@ -29,7 +29,7 @@
   		<dependency>
     		<groupId>com.destroystokyo.paper</groupId>
     		<artifactId>paper-api</artifactId>
-    		<version>1.14.4-R0.1-SNAPSHOT</version>
+    		<version>1.15.2-R0.1-SNAPSHOT</version>
     		<scope>provided</scope>
  		</dependency>
  		<!-- Placeholder API -->
@@ -51,6 +51,13 @@
             <groupId>de.myzelyam</groupId>
             <artifactId>SuperVanish</artifactId>
             <version>6.0.4</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- Lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
             <scope>provided</scope>
         </dependency>
   	</dependencies>

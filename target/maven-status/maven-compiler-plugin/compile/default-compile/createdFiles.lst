@@ -1,0 +1,17 @@
+ru/soknight/chatengine/commands/CommandMe.class
+ru/soknight/chatengine/utils/Logger.class
+ru/soknight/chatengine/commands/CommandGme.class
+ru/soknight/chatengine/utils/MessageConstructor.class
+ru/soknight/chatengine/utils/TablistUtils.class
+ru/soknight/chatengine/files/Config.class
+ru/soknight/chatengine/handlers/CommandRedirect.class
+ru/soknight/chatengine/utils/Checks.class
+ru/soknight/chatengine/commands/CommandCereload.class
+ru/soknight/chatengine/commands/CommandMsg.class
+ru/soknight/chatengine/tablist/TablistHandler.class
+ru/soknight/chatengine/ChatEngine.class
+ru/soknight/chatengine/tablist/Group.class
+ru/soknight/chatengine/files/Groups.class
+ru/soknight/chatengine/commands/CommandBroadcast.class
+ru/soknight/chatengine/handlers/MainHandler.class
+ru/soknight/chatengine/handlers/DeathMessageHandler.class
