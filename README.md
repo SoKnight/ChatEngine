@@ -15,4 +15,4 @@ Verified support MC 1.14.4, other versions are not tested.
 - Customizable messages and /cereload command for fast reloading configuration.
 
 ### Building
-Plugin will be at SpigotMC soon, but now you can build it with Maven: `/mvn compile`
+Plugin will be at SpigotMC soon, but now you can build it with Maven: `mvn compile`
